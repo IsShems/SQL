@@ -1,4 +1,4 @@
-----DROP DATABASE TurboAz;
+--DROP DATABASE TurboAz;
 CREATE DATABASE TurboAz;
 GO
 
